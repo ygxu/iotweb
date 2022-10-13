@@ -55,7 +55,8 @@
     "socket.io-client": "^2.4.0",
     "tslib": "^1.9.0",
     "uplot": "1.6.15",
-    "zone.js": "~0.8.26"
+    "zone.js": "~0.8.26",
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.13.0",
